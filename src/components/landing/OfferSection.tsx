@@ -21,19 +21,19 @@ export function OfferSection() {
           <div className="mt-8 space-y-4 text-left text-lg text-muted-foreground">
             <div className="flex justify-between items-center border-b border-border/50 pb-2">
                 <span>TODOS OS BÔNUS</span>
-                <span className="line-through">R$47,00</span>
+                <span className="line-through">R$97,00</span>
             </div>
             <div className="flex justify-between items-center border-b border-border/50 pb-2">
                 <span>ACESSO VITALÍCIO AO CURSO</span>
-                <span className="line-through">R$47,00</span>
+                <span className="line-through">R$49,00</span>
             </div>
           </div>
 
           <div className="my-8 flex flex-col items-center justify-center">
-            <span className="text-xl lg:text-2xl font-bold line-through text-muted-foreground">De R$94,00</span>
+            <span className="text-xl lg:text-2xl font-bold line-through text-muted-foreground">De R$146,00</span>
             <p className="uppercase text-white font-bold mt-2">Total:</p>
             <div className="flex items-baseline my-2">
-                <span className="text-6xl lg:text-8xl font-black text-primary">R$27,00</span>
+                <span className="text-6xl lg:text-8xl font-black text-primary">R$37,00</span>
             </div>
             <p className="text-sm text-muted-foreground">Últimas vagas a esse valor - Valor Promocional no PIX</p>
           </div>

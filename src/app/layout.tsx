@@ -49,7 +49,7 @@ export default function RootLayout({
         ></Script>
         <Script 
             id="vturb-player-script"
-            src="https://scripts.converteai.net/4bc12e78-b63c-4a40-af44-410d31d40924/players/690baea26813865f1566162f/v4/player.js"
+            src="https://scripts.converteai.net/76aaf581-62f1-483b-bda7-1fd96884a050/players/690e9184a530b0ae7a43d57e/v4/player.js"
             strategy="afterInteractive"
             async
         />

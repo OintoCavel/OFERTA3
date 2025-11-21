@@ -36,8 +36,8 @@ export function HeroSection() {
         
         <div className="mt-8 w-full">
              <vturb-smartplayer 
-                id="vid-690e9184a530b0ae7a43d57e"
-                style={{display: 'block', margin: '0 auto', width: '100%', maxWidth: '400px'}}
+                id="vid-691fc47b813dc92a81d50346"
+                style={{display: 'block', margin: '0 auto', width: '100%'}}
              ></vturb-smartplayer>
         </div>
 

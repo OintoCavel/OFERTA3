@@ -4,10 +4,10 @@ import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { Card } from "../ui/card";
 
 const credentials = [
-  "Sexólogo e Terapeuta Comportamental",
-  "Certificado em Terapias de Casais e Disfunções Sexuais",
+  "Sexóloga e Terapeuta Comportamental",
+  "Certificada em Terapias de Casais e Disfunções Sexuais",
   "Especialista em Massagens Eróticas",
-  "Criador do método Liberação de Esquichos"
+  "Criadora do método Liberação de Esquichos"
 ];
 
 const achievements = [
@@ -38,9 +38,9 @@ export function ExpertSection() {
               )}
             </div>
             <div className="md:col-span-2">
-              <h3 className="text-lg font-bold text-primary uppercase tracking-wider">Apresentamos seu professor</h3>
+              <h3 className="text-lg font-bold text-primary uppercase tracking-wider">Apresentamos sua professora</h3>
               <h2 className="text-4xl lg:text-5xl font-black text-white mt-2">
-                Ramon Pereira
+                Dra Daniella Rebellato
               </h2>
               <ul className="mt-6 space-y-3">
                 {credentials.map((cred, index) => (
